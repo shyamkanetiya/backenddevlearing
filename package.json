@@ -1,0 +1,23 @@
+{
+  "name": "devnodejs",
+  "version": "1.0.0",
+  "description": "learing foundamental things about npm",
+  "keywords": [
+    "no"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "license": "ISC",
+  "author": "shyam kanetiya",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "no"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "lodash": "^4.18.1"
+  }
+}
